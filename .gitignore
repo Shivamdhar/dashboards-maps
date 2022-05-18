@@ -1,0 +1,8 @@
+node_modules
+/build/
+build
+*.iml
+*.ipr
+.idea/
+.DS_Store
+target
